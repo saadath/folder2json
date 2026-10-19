@@ -1,0 +1,6 @@
+{
+  "name": "Folder2JSON",
+  "description": "Convert folder tree structures to JSON with extension filtering, clipboard copy, and export as data.json.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
